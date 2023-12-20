@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Муся",
+    "breed": "Дворова",
+    "age": 5,
+    "treats": [
+      { "name": "Вітамінка", "quantity": 3 },
+      { "name": "Мишка", "quantity": 2 },
+      { "name": "Рибка", "quantity": 4 },
+      { "name": "М'ята", "quantity": 5 },
+      { "name": "Роял Канін", "quantity": 2 }
+    ]
+  },
+  { "id": 2, "name": "Бася", "breed": "Перська", "age": 3, "treats": [] },
+  { "id": 3, "name": "Барсік", "breed": "Британська", "age": 2, "treats": [] },
+  { "id": 4, "name": "Мурчик", "breed": "Сіамська", "age": 4, "treats": [] },
+  { "id": 5, "name": "Асєськін", "breed": "Мейн-кун", "age": 1, "treats": [] },
+  { "id": 6, "name": "Куцік", "breed": "Сфінкс", "age": 2, "treats": [] }
+]

@@ -1,0 +1,27 @@
+.input {
+  padding: 8px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+  width: 200px;
+  font-size: 14px;
+}
+.btn {
+  border-radius: 50%;
+  background-color: green;
+  color: white;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: none;
+  font-size: 20px;
+  margin-left: 10px;
+}
+.box {
+  width: 50%;
+  display: flex;
+  box-sizing: content-box;
+  align-items: center;
+}
